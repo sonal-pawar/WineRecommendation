@@ -4,3 +4,4 @@
 /venv
 .coverage
 /djangoenv
+/winevenv
